@@ -20,7 +20,7 @@ const App = (props) => {
 
 	// CHANGE THE THEME OF YOUR BACKGROUND COVER
 	// E.G YOUR HOBBY, COUNTRY, INTEREST, OR JUST SOMETHING VISUALLY PLEASING
-	let [query, setQuery] = useState('chicago')
+	let [query, setQuery] = useState('sky')
 
 	const queryInput = useRef(null)
 	const url =

@@ -23,7 +23,7 @@
 	--mygreen: #99d930;
 
 	/* CHANGE THIS TO THE COLOR OF YOUR CHOICE */
-	--divider-color: var(--mygreen);
+	--divider-color: var(--blue);
 }
 
 body {
@@ -96,7 +96,7 @@ html {
 .job-title {
 	text-transform: uppercase;
 	margin: 0vw 0 2vw;
-	font-size: 1.4vw;
+	font-size: 1.2vw;
 	font-weight: 100;
 	letter-spacing: 0.05vw;
 }
@@ -119,7 +119,7 @@ html {
 
 .red-border {
 	box-sizing: border-box;
-	border: 1px solid red;
+	border: 1px solid black;
 	width: 100%;
 	height: 25vw;
 	position: fixed;
