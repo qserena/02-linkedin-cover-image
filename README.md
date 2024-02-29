@@ -1,7 +1,7 @@
 # LinkedIn Cover Image
 
 ## Description
-This is a project which fetches a random image (based on theme word) and diplays an image which could be set as the header of your LinkedIn profile.
+This is a project which fetches a random image (based on theme word) and displays an image which could be set as the header of your LinkedIn profile.
   
 <br/>
 <img src="cover-image.png" alt="Screenshot." width="800px"/>
