@@ -1,8 +1,17 @@
-# React + Vite
+# LinkedIn Cover Image
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is an exercise in building a homepage from a predefined Figma design file. Flexbox layout is used to make the page responsive.
+  
+<br/>
+<img src="cover-image.png" alt="Screenshot." width="800px"/>
 
-Currently, two official plugins are available:
+## Technologies
+- HTML
+- CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live link
+The site is deployed here:
+[https://toms-torshov.netlify.app](https://toms-torshov.netlify.app)
+
+Please feel free to visit the site!
