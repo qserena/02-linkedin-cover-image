@@ -1,7 +1,7 @@
 # LinkedIn Cover Image
 
 ## Description
-This is an exercise in building a homepage from a predefined Figma design file. Flexbox layout is used to make the page responsive.
+This is a project which fetched a random image (based on theme word) and diplays an image which could be set as the header image of your LinkedIn profile.
   
 <br/>
 <img src="cover-image.png" alt="Screenshot." width="800px"/>
@@ -9,9 +9,10 @@ This is an exercise in building a homepage from a predefined Figma design file. 
 ## Technologies
 - HTML
 - CSS
+- JavaScript
 
 ## Live link
-The site is deployed here:
-[https://toms-torshov.netlify.app](https://toms-torshov.netlify.app)
+The cover image can be seen in 
+[my LinkedIn profile](https://www.linkedin.com/in/tom-serenander/)
 
-Please feel free to visit the site!
+Please feel free to visit!
