@@ -29,6 +29,7 @@ const App = (props) => {
 		const photoUrl = query
 			? `${url}&query=${query.split(' ').join('+')}`
 			: url
+
 		loadData({
 			url: photoUrl,
 			onSuccess: (res) => {
@@ -43,19 +44,20 @@ const App = (props) => {
 	}
 
 	if (query && photo.id) {
+		console.log(photo.urls.regular)
 		return (
 			<div className="container">
 				<div key={photo.id} className="item">
 					<img className="img" src={photo.urls.regular} />
 					<div className="red-border"></div>
 					<div className="right-frame">
-						<h4 class="name first-name">Tom</h4>
-						<h4 class="name last-name">Serenander</h4>
-						<div class="divider"></div>
-						<h5 class="job-title">Frontend Developer</h5>
-						<h5 class="web">https://serenander.se</h5>
-						<h5 class="email">tom@serenander.se</h5>
-						<h5 class="phone">+46 721 76 97 42</h5>
+						<h4 className="name first-name">Tom</h4>
+						<h4 className="name last-name">Serenander</h4>
+						<div className="divider"></div>
+						<h5 className="job-title">Frontend Developer</h5>
+						<h5 className="web">https://serenander.se</h5>
+						<h5 className="email">tom@serenander.se</h5>
+						<h5 className="phone">+46 721 76 97 42</h5>
 					</div>
 					<div className="caption">
 						<span className="credits">
