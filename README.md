@@ -1,20 +1,8 @@
-# LinkedIn Cover Image
+# React + Vite
 
-## Description
-This is a project which fetches a free, random image (based on theme word) from the site [Unsplash](https://unsplash.com/) and displays an image which could be set as the header of your LinkedIn profile.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-The purpose is to show your contact information very clearly at the top of the page.
-  
-<br/>
-<img src="cover-image.png" alt="Screenshot." width="800px"/>
+Currently, two official plugins are available:
 
-## Technologies
-- HTML
-- CSS
-- JavaScript
-
-## Live link
-The cover image can be seen in 
-[my LinkedIn profile](https://www.linkedin.com/in/tom-serenander/)
-
-Please feel free to visit!
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
