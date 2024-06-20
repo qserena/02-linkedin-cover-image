@@ -14,6 +14,7 @@ The purpose is to show your contact information very clearly at the top of the p
 -   HTML
 -   CSS
 -   JavaScript
+-   React
 
 ## Live link
 
