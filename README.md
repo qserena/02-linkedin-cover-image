@@ -7,7 +7,7 @@ This is a project which fetches a free, random image (based on theme word) from 
 The purpose is to show the contact information very clearly at the top of your LinkedIn profile.
 
 <br/>
-<img src="cover-image.png" alt="Screenshot." width="800px"/>
+<img src="cover-image-fullstack.png" alt="Screenshot." width="800px"/>
 
 ## Technologies
 
