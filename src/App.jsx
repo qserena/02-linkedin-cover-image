@@ -52,7 +52,7 @@ function App() {
                         <h4 className="name first-name">Tom</h4>
                         <h4 className="name last-name">Serenander</h4>
                         <div className="divider"></div>
-                        <h5 className="job-title">Frontend Developer</h5>
+                        <h5 className="job-title">Fullstack Developer</h5>
                         <h5 className="web">https://serenander.se</h5>
                         <h5 className="email">tom@serenander.se</h5>
                         <h5 className="phone">+46 721 76 97 42</h5>
